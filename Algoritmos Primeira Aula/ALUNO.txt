@@ -1,0 +1,3 @@
+Aluno: Vitor Gabriel Sauer
+1 periodo Ciencia de Dados
+Matéria: Programação para ciencia de Dados
